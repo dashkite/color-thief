@@ -1,0 +1,13 @@
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.sigbits = exports.rshift = exports.populationFraction = exports.maxIterations = void 0;
+var maxIterations, populationFraction, rshift, sigbits;
+exports.sigbits = sigbits = 5;
+exports.rshift = rshift = 8 - sigbits;
+exports.maxIterations = maxIterations = 1000;
+exports.populationFraction = populationFraction = 0.75;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9jb25zdGFudHMuY29mZmVlIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7OztBQUFBLElBQUEsYUFBQSxFQUFBLGtCQUFBLEVBQUEsTUFBQSxFQUFBLE9BQUE7QUFBQSxPQUFBLENBQUEsT0FBQSxHQUFBLE9BQUEsR0FBVSxDQUFBO0FBQ1YsT0FBQSxDQUFBLE1BQUEsR0FBQSxNQUFBLEdBQVMsQ0FBQSxHQUFJLE9BQUE7QUFDYixPQUFBLENBQUEsYUFBQSxHQUFBLGFBQUEsR0FBZ0IsSUFBQTtBQUNoQixPQUFBLENBQUEsa0JBQUEsR0FBQSxrQkFBQSxHQUFxQixJQUFBIiwic291cmNlc0NvbnRlbnQiOlsic2lnYml0cyA9IDVcbnJzaGlmdCA9IDggLSBzaWdiaXRzXG5tYXhJdGVyYXRpb25zID0gMTAwMFxucG9wdWxhdGlvbkZyYWN0aW9uID0gMC43NVxuXG5cbmV4cG9ydCB7XG4gIHNpZ2JpdHNcbiAgcnNoaWZ0XG4gIG1heEl0ZXJhdGlvbnNcbiAgcG9wdWxhdGlvbkZyYWN0aW9uXG59Il0sInNvdXJjZVJvb3QiOiIifQ==
+//# sourceURL=src/constants.coffee

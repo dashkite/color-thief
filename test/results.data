@@ -1,0 +1,38 @@
+<div class="swatches">
+              <div class="swatch" style="background-color: rgb()"></div>
+              <div class="swatch" style="background-color: rgb()"></div>
+              <div class="swatch" style="background-color: rgb()"></div>
+              <div class="swatch" style="background-color: rgb()"></div>
+              <div class="swatch" style="background-color: rgb()"></div>
+              <div class="swatch" style="background-color: rgb(227, 85, 14)"></div>
+              <div class="swatch" style="background-color: rgb(20, 34, 54)"></div>
+              <div class="swatch" style="background-color: rgb(17, 124, 39)"></div>
+              <div class="swatch" style="background-color: rgb(229, 127, 18)"></div>
+              <div class="swatch" style="background-color: rgb(231, 231, 218)"></div>
+          </div>
+
+
+###
+Test Output
+###
+
+[ 110, 175, 180 ],
+[ 184, 38, 7 ],
+[ 224, 191, 37 ],
+[ 20, 163, 182 ],
+[ 106, 139, 70 ],
+[ 225, 85, 14 ],
+[ 20, 34, 54 ],
+[ 17, 124, 39 ],
+[ 227, 128, 18 ]
+
+
+###
+Reference Output
+###
+
+[ 185, 38, 7 ]    x
+[ 226, 193, 35 ]  x
+[ 109, 175, 180 ] x
+[ 20, 165, 183 ]  x
+[ 105, 139, 70 ]  x
