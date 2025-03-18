@@ -1,11 +1,11 @@
-build/browser/src/pv.js: 5LqJZwH8
 build/browser/src/constants.js: WVmdhApz
-build/browser/src/histogram.js: GzaOJR0Z
 build/browser/src/queue.js: Ico9MwWk
-build/browser/src/vbox.js: NxUPoxPP
-build/browser/src/color-map.js: urhXxAYl
-build/browser/src/engine.js: lf2O1W3X
+build/browser/src/histogram.js: GzaOJR0Z
 build/browser/src/canvas-image.js: gYQmAuws
+build/browser/src/engine.js: lf2O1W3X
 build/browser/src/quantize.js: sYtj6oMF
+build/browser/src/color-map.js: urhXxAYl
+build/browser/src/vbox.js: NxUPoxPP
+build/browser/src/pv.js: 5LqJZwH8
 build/browser/src/index.js: Q7fXQDjd
 build/browser/src/cut.js: U4RGc7jM
