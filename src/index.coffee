@@ -55,8 +55,6 @@ extract = ( options ) ->
 
   # Final check on new pixel array
   if pixels.length == 0
-    # # TODO: we should throw here, but I have a weird Svelte issue.
-    # throw new Error "quantize pixel array cannot have lenth 0"
     return []
 
 
