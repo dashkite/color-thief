@@ -33,6 +33,9 @@ importers:
       '@dashkite/genie-module':
         specifier: link:../genie-module
         version: link:../genie-module
+      '@dashkite/vista':
+        specifier: link:../vista
+        version: link:../vista
       canvas:
         specifier: 2.11.2
         version: 2.11.2(encoding@0.1.13)
